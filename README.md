@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jblaise347
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in front end development and backend development
+- 🌱 I’m currently learning Smart Contract development
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 How to reach me is via my linkedin - https://www.linkedin.com/ogheneken0-joshua-ekpokpobe-48105911b and email: kenoekpokpobe@gmail.com
 
